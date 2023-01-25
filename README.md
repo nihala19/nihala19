@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihal Prakash Apretwar</h1>
 <h3 align="center">I am a recent B.Tech graduate in Electrical Engineering with a passion for technology and strong understanding of systems, automation, and control. I am proficient in Git, Jenkins, Docker, Linux administration (Ubuntu), Ansible, AWS, and Docker and Kubernetes. I am seeking to leverage these skills as a DevOps Engineer to improve the efficiency, scalability, and availability of production systems.</h3>
 
-<img align="right" alt="coading" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flhongtortai.com%2Fcollection%2Fworking-animation-gif&psig=AOvVaw0mJ9acuE_T0h-ei-JmXenv&ust=1674726381238000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDn1oW64vwCFQAAAAAdAAAAABAD"> 
+<img align="right" alt="coading" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblMzSFh3NUZUSWJyQ0hQNk1ZaVJLekl5ajhtd3xBQ3Jtc0tsTTVoeUo1eGdvVWtoaVFaRkpyM2kzcTJPYjRFdkRmSmhaWjVhelJBMzJuZDZGbldkamV4TzU1ZWpGUEVlY1BIWGw0VElidTc1RlFWdlJDTVdQaXJmaXRtNU5Rc3BIa2p3SUZxVVE1UnQwU1czOUhvaw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0"> 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihala19&label=Profile%20views&color=0e75b6&style=flat" alt="nihala19" /> </p>
 
