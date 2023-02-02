@@ -2,7 +2,7 @@
 <h3 align="center">I am a recent B.Tech graduate in Electrical Engineering with a passion for technology and strong understanding of systems, automation, and control. I am proficient in Git, Jenkins, Docker, Linux administration (Ubuntu), Ansible, AWS, and Docker and Kubernetes. I am seeking to leverage these skills as a DevOps Engineer to improve the efficiency, scalability, and availability of production systems.</h3>
 
 
- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ <img align="right" alt="coding" width="400" src="https://github.com/nihala19/nihala19/blob/e666e8d3cede54e7ac26819c6d32470b16738c3c/adopti_video_2.gif">
 
 - 🌱 I’m currently learning **DevOps**
 
